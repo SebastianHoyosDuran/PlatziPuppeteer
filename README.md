@@ -43,4 +43,4 @@ _Para finalizar , una pequeña modificación en el archivo packge.js en su secci
 ```
 ## Ejecutando las pruebas ⚙️
 
-_Para ejecutar las pruebas se pueden mediante elcomando npm run test , sin embargo esto nos va a ejecutar todas las pruebas, se podria instalar la extension de Jests para poder ejecutar de manera separa y hacer debug_
+_Para ejecutar las pruebas se pueden mediante el comando npm run test , sin embargo esto nos va a ejecutar todas las pruebas, se podria instalar la extension de Jests para poder ejecutar de manera separa y hacer debug_
