@@ -27,7 +27,7 @@ npm i puppeteer jest
 
 ```
 
-_Despues de esto la organizacion basica, sin ningun tipo de arquitectura seríá _
+_Despues de esto la organizacion basica, sin ningun tipo de arquitectura sería_
 
 ```
 Crear una carpeta __tests__
